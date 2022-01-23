@@ -1,7 +1,38 @@
 [ 
   {
     "name": "Aventurin Taşı",
-    "description": "Aventurin taşına aynı zamanda Yıldız Taşı da denmektedir. Kumtaşı da pırıltılı olması sebebi ile Yıldız olarak bilinir ancak ikisi farklı taşlardır.  Aventurin kalbin yakınına yerleştirildiğinde, negatif enerjiden korur. Bu taşın Yeşim taşı ve Pembe Kuvars arasında bir yumuşaklığı vardır. Bu pürüzsüz taşı göğsünüzün üzerinde doğrudan cildinize temas ettirmek en iyi yoldur. Bu taş sınırsız imkanlar taşıdır, size geniş ufuklar açar. Kendinizi sınırlanmış, engellenmiş, dar düşünce kalıpları ya da modası geçmiş davranışlar içine sıkışmış hissettiğinizde bu taşı kullanabilirsiniz. Aventurin Yengeç burcu sembol taşı’dır."
-    "pictureUrl":"",
-  }
+    "subTitle": "Aventurin taşına aynı zamanda Yıldız Taşı da denmektedir. Kumtaşı da pırıltılı olması sebebi ile Yıldız olarak bilinir ancak ikisi farklı taşlardır."
+    "description":"",
+    "pictureUrl":"https://raw.githubusercontent.com/RabiaDELEN/H5200029rabiadelen/main/Averturin%20Ta%C5%9F%C4%B1.jpeg",
+  },
+   {
+    "name": "Pembe Kuvars Taşı",
+    "subTitle": "Kuvars grubu ailesinin pembe renkli üyesinin içi berrak (saydam, şeffaf) olanlarına “Erkek Kuvars”, içi dumanlı (opak, yarı opak) olanlarına “Dişi Kuvars” denir. Kristal kümelerinde genelde ikisi bir arada bulunur."
+    "description":"",
+    "pictureUrl":"https://raw.githubusercontent.com/RabiaDELEN/H5200029rabiadelen/main/Pembe%20Kuvars.jpeg",
+  },
+   {
+    "name": "Havlit Taşı",
+    "subTitle": "Havlit taşı beyaz ve opaktır. Nadiren de olsa kristal formunda görülebilir ancak büyük bir çoğunluğu opaktır. Yumuşak ve gözenekli bir taştır. Yumuşak olması sebebiyle takılarda kullanılması, çabuk çizilme ve kırılma riskinden dolayı azdır."
+    "description":"",
+     "pictureUrl":"https://raw.githubusercontent.com/RabiaDELEN/H5200029rabiadelen/main/Havlit%20Ta%C5%9F%C4%B1.jpeg",
+  },
+   {
+    "name": "Krizokol Taşı",
+    "subTitle": "Mavi ve yeşilin birleşimi ile harika bir renge sahip olan Krizokol taşı, Cam göbeği ve turkuaz rengi tonlarındadır ve Kalsedon grubuna aittir. Sertlik derecesi içerisindeki silikat miktarına göre 2,5 ile 7 arasında değişir. "
+    "description":"",
+     "pictureUrl":"https://raw.githubusercontent.com/RabiaDELEN/H5200029rabiadelen/main/Krizokol%20Ta%C5%9F%C4%B1.jpeg",
+  },
+   {
+    "name": "Labrodit Taşı",
+    "subTitle": "Kalsiyum, Sodyum ve Alüminyum Silikatlerindendir. Sertliği 6 – 6,5 arasındadır. Triklinik sistemde kristalleşmiş, kayaç oluşumuna sebebiyet veren yapıcı primer minerallerin fenokristalleşerek bazik pegmatitlerin cevherleşmesi ile meydana gelir "
+    "description":"",
+     "pictureUrl":"https://raw.githubusercontent.com/RabiaDELEN/H5200029rabiadelen/main/Labrodit%20Ta%C5%9F%C4%B1.jpeg",
+   },
+  {
+    "name": "Malakit Taşı",
+    "subTitle": "Malakit (diğer isimleri Malachite yada Malahit), bakır sülfürleriyle, özellikle kalkopiritle birlikte ve bunların yataklarının üst kısımlarında oksitlenme sonunda bulunur."
+    "description":"",
+    "pictureUrl":"https://raw.githubusercontent.com/RabiaDELEN/H5200029rabiadelen/main/Malakit%20Ta%C5%9F%C4%B1.jpeg",
+   },
 ]
